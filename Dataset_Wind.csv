@@ -1,0 +1,13 @@
+﻿Dataset ,Source ,Data type ,Year & state,Resolution,Objective ,State
+Drone data,Open Aerial Image[1],Raster,2017-2018,3 – 5 cm,1,Static
+Building damage characteristics,UNDP dataset ,Tabular ,2017-2018, ,1,
+Digital terrain model (DTM),UNDP dataset,Raster ,,0.5 m,2,
+Digital surface model (DSM),UNDP dataset (LiDAR data),Raster ,,0.5 m,2,
+Building footprint ,Building inventory from UNDP ,Vector ,2017-2018,,2,
+Mesh file ,CFD0 code editor,Gridded cells , ,,2,
+Meteorological data,,,,,,
+Global horizontal irradiance (GHI),Global Solar Atlas,.png/.jpeg,1992-2018,,2,Dynamic
+u and v components of wind,EMCWF (ERA5-LAND),Tabular,14th Sep- 29th Sep 2017,11 km,2,
+Air temperature ,EMCWF,Tabular, ,11 km,2,
+Dewpoint temperature,EMCWF,Tabular,,11 km,2,
+Relative humidity,Derivative from ERA5-LAND,Tabular ,,11 km,2,
